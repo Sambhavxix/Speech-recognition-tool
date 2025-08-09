@@ -6,7 +6,7 @@ INTERN ID: CT04DZ728
 
 DOMAIN: AI
 
-DURATION: 4 WEEEKS
+DURATION: 4 WEEKS
 
 MENTOR: NEELA SANTOSH
 
@@ -40,4 +40,5 @@ Conclusion
 This Speech Recognition System provides a practical introduction to speech-to-text technology using Python and open-source tools. It is suitable for educational purposes, prototyping, or as a starting point for more complex applications. The project demonstrates the power and accessibility of modern speech recognition APIs and serves as a valuable addition to any portfolio or internship deliverable.
 
 Let me know if you need this in a specific file or want to adjust the content!
+
 
